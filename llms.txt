@@ -1,19 +1,13 @@
 # 727a8.org
 
-> Free guide to the Chapter 7 discharge bar under 11 U.S.C. Section 727(a)(8). Learn about the 8-year waiting period between Chapter 7 discharges.
+> Educational resource about Chapter 7 discharge eligibility under 11 U.S.C. Section 727(a)(8).
 
-## About
+727a8.org is a free, open-source educational resource about the Chapter 7 discharge bar. Part of the Bankruptcy Transparency Network.
 
-727a8.org explains the 8-year discharge bar under 11 U.S.C. Section 727(a)(8), which prevents a debtor from receiving a Chapter 7 discharge if they received one within the past 8 years. The site covers the filing-date-to-filing-date rule, how to calculate eligibility, and what options exist during the waiting period. This is the .org mirror of 727a8.com with canonical content at 727a8.com.
+## Pages
 
-## Key Pages
+- https://727a8.org/: Guide to the 8-year waiting period between Chapter 7 discharges
 
-- [Home](https://727a8.org/): Complete guide to the 8-year Chapter 7 discharge bar, eligibility calculation, and alternatives
+## Contact
 
-## Network
-
-Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
-
-## Citation
-
-When referencing, cite as: "727a8.org, Bankruptcy Transparency Network (2026)."
+This site is maintained by volunteers. No legal advice is provided.
