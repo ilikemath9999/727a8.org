@@ -2,7 +2,7 @@
 
 > Educational resource about Chapter 7 discharge eligibility under 11 U.S.C. Section 727(a)(8).
 
-727a8.org is a free, open-source educational resource about the Chapter 7 discharge bar. Part of the Bankruptcy Transparency Network.
+727a8.org is a free, open-source educational resource about the Chapter 7 discharge bar. Part of the Open Bankruptcy Project.
 
 ## Pages
 
