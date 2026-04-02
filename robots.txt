@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://727a8.org/sitemap.xml
+
+Sitemap: https://727a8.org/sitemap.xml
