@@ -1,13 +1,17 @@
-# 727a8.org
+# Redirecting to 727a8.com
+> Free educational resource at 727a8.org.
 
-> Educational resource about Chapter 7 discharge eligibility under 11 U.S.C. Section 727(a)(8).
+## About
+727a8.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-727a8.org is a free, open-source educational resource about the Chapter 7 discharge bar. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://727a8.org/: Guide to the 8-year waiting period between Chapter 7 discharges
+## Key Pages
+- Redirecting to 727a8.com: https://727a8.org/
+- Section 727(a)(8) FAQ -- Chapter 7 Discharge Waiting Period: https://727a8.org/frequently-asked-questions.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
